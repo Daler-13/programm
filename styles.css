@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+  color: white;
+}
+.box {
+  text-align: center;
+  width: 1600px;
+  height: 100px;
+  position: fixed;
+  margin-top: -24px;
+  margin-left: -8px;
+}
+ul {
+  background-color: #1a508b;
+  padding: 15px;
+}
+li {
+  text-align: right;
+  display: inline;
+  padding: 50px;
+  cursor: pointer;
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+li:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: left;
+  color: red;
+}
+.html {
+  color: red;
+}
+
+td {
+  text-align: left;
+}
+/* class */
+.css {
+color: blue;
+  text-align: right;
+}
+.css {
+  color: blue;
+}
+.imgcss {
+float: right;
+}
+.end {
+  height: 200px;
+  width: 400px;
+}
+.js{
+  color: lime;
+}
